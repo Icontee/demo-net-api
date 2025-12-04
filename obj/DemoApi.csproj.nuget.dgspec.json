@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\DemoApi\\DemoApi.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\DemoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\DemoApi\\DemoApi.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\DemoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\DemoApi\\DemoApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\DemoApi.csproj",
         "projectName": "DemoApi",
-        "projectPath": "C:\\Users\\user\\DemoApi\\DemoApi.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\DemoApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\DemoApi\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
