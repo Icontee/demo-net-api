@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: iconteedemonetapi 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: iconteedemonetapi
+  template:
+    metadata:
+      labels:
+        app: iconteedemonetapi 
+    spec:
+      containers:
+        - name: iconteedemonetapi 
+          image: pipeline100.azurecr.io/iconteedemonetapi
+          ports:
+          - containerPort: 8080
